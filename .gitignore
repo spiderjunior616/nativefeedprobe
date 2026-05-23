@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+*.tmp
+*.bak
+*.zip
+*.7z
+*.rar
+*.disabled-after-restore-*
+local-state/
+*.local.json
