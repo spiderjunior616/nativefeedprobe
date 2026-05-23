@@ -2,7 +2,7 @@
 
 Millennium plugin that feeds local Steam-native activity data into Steam's own app activity renderer.
 
-The goal is to make local activity for jogos Lua appear through Steam's native UI, without publishing those activity events to Steam servers or public profiles.
+The goal is to make local activity for jogos Lua appear through Steam's native UI
 
 ## What It Does
 
